@@ -1,5 +1,4 @@
-Chapter 5: Developing Positive Habits: Developing Healthy Work-Life Balance
-===========================================================================
+# Developing Healthy Work-Life Balance
 
 Developing healthy work-life balance is essential for effective time management and overall well-being in the workplace. This chapter will cover the following subtopics:
 

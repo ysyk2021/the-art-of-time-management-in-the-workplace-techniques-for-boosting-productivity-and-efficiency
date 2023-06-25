@@ -1,5 +1,4 @@
-Chapter 4: Planning for Success: Delegating Tasks
-=================================================
+# Delegating Tasks
 
 Delegating tasks is an effective way to manage time and increase productivity in the workplace. This chapter will cover the following subtopics:
 

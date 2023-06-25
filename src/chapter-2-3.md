@@ -1,5 +1,4 @@
-Chapter 2: Assessing Your Current Approach to Time Management: Assessing Your Use of Technology
-===============================================================================================
+# Assessing Your Use of Technology
 
 In this chapter, we will explore how technology can impact your approach to time management and provide tips for assessing your current use of technology.
 

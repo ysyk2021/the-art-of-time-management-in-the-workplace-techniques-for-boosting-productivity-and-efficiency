@@ -1,5 +1,4 @@
-Chapter 1: Introduction: Benefits of Effective Time Management
-==============================================================
+# Benefits of Effective Time Management
 
 Time is a precious resource that we all have in equal measure. However, some people seem to accomplish more in a day than others. The difference lies in how effectively they manage their time.
 

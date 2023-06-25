@@ -1,5 +1,4 @@
-Chapter 5: Developing Positive Habits: Strategies for Staying Motivated
-=======================================================================
+# Strategies for Staying Motivated
 
 Developing positive habits is essential for effective time management in the workplace. This chapter will cover the following subtopics:
 

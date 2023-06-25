@@ -1,5 +1,4 @@
-Chapter 3: Setting Goals and Priorities: Prioritizing Tasks Based on Importance and Urgency
-===========================================================================================
+# Prioritizing Tasks Based on Importance and Urgency
 
 Prioritizing tasks based on importance and urgency is an essential time management skill in the workplace. This chapter will cover the following subtopics:
 

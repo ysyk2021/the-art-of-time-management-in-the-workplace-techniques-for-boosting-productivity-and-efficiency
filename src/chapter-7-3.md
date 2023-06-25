@@ -1,5 +1,4 @@
-Chapter 7: Overcoming Procrastination and Avoiding Burnout: Warning Signs of Burnout
-====================================================================================
+# Warning Signs of Burnout
 
 Burnout is a state of emotional, physical, and mental exhaustion caused by excessive and prolonged stress. It is important to recognize the warning signs of burnout in order to take action to prevent it. This chapter will cover the following subtopic:
 

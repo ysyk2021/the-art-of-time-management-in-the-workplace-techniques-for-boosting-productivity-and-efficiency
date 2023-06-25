@@ -1,5 +1,4 @@
-Chapter 5: Developing Positive Habits: Establishing a Morning Routine
-=====================================================================
+# Establishing a Morning Routine
 
 Establishing a morning routine is an effective strategy for developing positive habits and optimizing time management skills in the workplace. This chapter will cover the following subtopics:
 

@@ -1,5 +1,4 @@
-Chapter 5: Developing Positive Habits: Maintaining Focus and Energy Throughout the Day
-======================================================================================
+# Maintaining Focus and Energy Throughout the Day
 
 Maintaining focus and energy throughout the day is essential for effective time management in the workplace. This chapter will cover the following subtopics:
 

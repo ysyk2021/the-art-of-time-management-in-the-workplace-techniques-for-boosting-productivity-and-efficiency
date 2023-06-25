@@ -1,5 +1,4 @@
-Chapter 7: Overcoming Procrastination and Avoiding Burnout: Avoiding Burnout
-============================================================================
+# Avoiding Burnout
 
 Avoiding burnout is essential for maintaining productivity and achieving success in the workplace. This chapter will cover the following subtopics:
 

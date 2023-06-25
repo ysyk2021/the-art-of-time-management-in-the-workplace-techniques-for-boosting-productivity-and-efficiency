@@ -1,5 +1,4 @@
-Chapter 3: Setting Goals and Priorities: Breaking Down Goals into Manageable Tasks
-==================================================================================
+# Breaking Down Goals into Manageable Tasks
 
 In this chapter, we will explore the importance of breaking down long-term goals into smaller, more manageable tasks in setting priorities and improving time management in the workplace.
 

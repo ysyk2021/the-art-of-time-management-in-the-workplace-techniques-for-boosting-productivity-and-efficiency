@@ -1,5 +1,4 @@
-Chapter 4: Planning for Success: Utilizing Time-Blocking Techniques
-===================================================================
+# Utilizing Time-Blocking Techniques
 
 Utilizing time-blocking techniques is an effective way to manage time and increase productivity in the workplace. This chapter will cover the following subtopics:
 

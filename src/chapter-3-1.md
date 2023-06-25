@@ -1,5 +1,4 @@
-Chapter 3: Setting Goals and Priorities: Defining Your Long-Term Goals
-======================================================================
+# Defining Your Long-Term Goals
 
 In this chapter, we will explore the importance of defining long-term goals in setting priorities and improving time management in the workplace.
 

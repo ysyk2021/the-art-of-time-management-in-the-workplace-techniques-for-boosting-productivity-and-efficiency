@@ -1,5 +1,4 @@
-Chapter 4: Planning for Success: Creating an Effective Schedule
-===============================================================
+# Creating an Effective Schedule
 
 Creating an effective schedule is essential for effective time management in the workplace. This chapter will cover the following subtopics:
 

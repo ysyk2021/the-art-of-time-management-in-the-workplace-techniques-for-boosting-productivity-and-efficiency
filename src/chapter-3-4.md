@@ -1,5 +1,4 @@
-Chapter 3: Setting Goals and Priorities: Creating a To-Do List
-==============================================================
+# Creating a To-Do List
 
 Creating a to-do list is an effective strategy for setting goals and priorities in the workplace. This chapter will cover the following subtopics:
 

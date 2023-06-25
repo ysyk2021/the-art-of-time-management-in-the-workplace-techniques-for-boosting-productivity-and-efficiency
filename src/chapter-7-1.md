@@ -1,5 +1,4 @@
-Chapter 7: Overcoming Procrastination and Avoiding Burnout: Understanding the Causes of Procrastination
-=======================================================================================================
+# Understanding the Causes of Procrastination
 
 Understanding the causes of procrastination is essential for overcoming it and avoiding burnout in the workplace. This chapter will cover the following subtopics:
 

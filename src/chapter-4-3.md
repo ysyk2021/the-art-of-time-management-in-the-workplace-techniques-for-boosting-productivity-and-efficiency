@@ -1,5 +1,4 @@
-Chapter 4: Planning for Success: Managing Interruptions and Distractions
-========================================================================
+# Managing Interruptions and Distractions
 
 Managing interruptions and distractions is essential for effective time management in the workplace. This chapter will cover the following subtopics:
 

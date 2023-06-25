@@ -1,5 +1,4 @@
-Chapter 1: Introduction: Common Time Management Pitfalls
-========================================================
+# Common Time Management Pitfalls
 
 Effective time management is essential for success in the workplace, but there are many common pitfalls that can hinder our productivity and efficiency. In this chapter, we will discuss some of the most common time management pitfalls and how to avoid them.
 
