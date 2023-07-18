@@ -8,5 +8,4 @@ Whether you're a seasoned professional looking to take your career to the next l
 
 In conclusion, this book is an essential guidebook for anyone looking to improve their time management skills and achieve success in the workplace. With its practical tips and expert advice, readers can learn how to manage their time effectively and achieve greater productivity, efficiency, and fulfillment in their professional lives.
 
-
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
