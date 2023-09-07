@@ -1,5 +1,3 @@
-Chapter 1: Introduction
-=======================
 
 Effective time management is essential for success in the workplace. This chapter will cover the following subtopics:
 

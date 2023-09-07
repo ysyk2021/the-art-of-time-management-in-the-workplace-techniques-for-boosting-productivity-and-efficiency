@@ -1,5 +1,3 @@
-Chapter 7: Overcoming Procrastination and Avoiding Burnout
-==========================================================
 
 Procrastination and burnout can be major obstacles to effective time management in the workplace. This chapter will cover the following subtopics:
 

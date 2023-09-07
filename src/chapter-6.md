@@ -1,5 +1,3 @@
-Chapter 6: Time-Saving Strategies
-=================================
 
 Time-saving strategies are essential for boosting productivity and efficiency in the workplace. This chapter will cover the following subtopics:
 

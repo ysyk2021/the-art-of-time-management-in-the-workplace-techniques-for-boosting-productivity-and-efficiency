@@ -1,5 +1,3 @@
-Chapter 4: Planning for Success
-===============================
 
 Effective planning is essential for successful time management in the workplace. This chapter will cover the following subtopics:
 

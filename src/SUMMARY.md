@@ -40,3 +40,4 @@
   - [Adapting to Changes in the Workplace](chapter-8-4.md)
 - [Conclusion](conclusion.md)
 - [Contacts](contacts.md)
+- [Our Other Books](other-books.md)

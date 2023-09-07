@@ -1,5 +1,3 @@
-Chapter 3: Setting Goals and Priorities
-=======================================
 
 Setting clear goals and priorities is essential for effective time management in the workplace. This chapter will cover the following subtopics:
 

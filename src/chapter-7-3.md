@@ -1,4 +1,3 @@
-# Warning Signs of Burnout
 
 Burnout is a state of physical, emotional, and mental exhaustion caused by prolonged stress and overwork. It can have detrimental effects on productivity, efficiency, and overall well-being. In this chapter, we will explore the warning signs of burnout in the workplace. By recognizing these signs early on, individuals and organizations can take proactive measures to prevent burnout and prioritize self-care.
 

@@ -1,5 +1,3 @@
-Chapter 5: Developing Positive Habits
-=====================================
 
 Developing positive habits is key to effective time management in the workplace. This chapter will cover the following subtopics:
 

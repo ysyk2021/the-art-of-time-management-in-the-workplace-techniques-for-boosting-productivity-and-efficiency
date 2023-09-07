@@ -1,6 +1,3 @@
-# Establishing a Morning Routine
-
-## Introduction
 
 Establishing a morning routine is a powerful way to kickstart your day, set a positive tone, and optimize your productivity and efficiency in the workplace. By incorporating intentional activities into your morning ritual, you can enhance focus, mental clarity, and overall well-being. This chapter explores the importance of a morning routine and provides practical strategies to help you create a successful routine that works for you.
 

@@ -1,5 +1,3 @@
-Chapter 8: Continuous Improvement and Evaluation
-================================================
 
 In order to ensure productivity and efficiency in the workplace, it is important to continuously evaluate one's performance and make necessary improvements. This chapter will cover the following subtopics:
 
