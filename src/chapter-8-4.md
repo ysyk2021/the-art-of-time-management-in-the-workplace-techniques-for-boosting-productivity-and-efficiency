@@ -1,5 +1,4 @@
-Chapter: Adapting to Changes in the Workplace
-=============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the importance of adaptability in the workplace and how it relates to time management, productivity, and efficiency. We delve into the challenges posed by changes in the work environment and provide techniques for embracing and navigating these changes effectively. By understanding the significance of adaptability and implementing strategies for adaptation, readers will be better equipped to boost their productivity and efficiency in an ever-evolving workplace.
 
